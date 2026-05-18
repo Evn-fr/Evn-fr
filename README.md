@@ -1,6 +1,3 @@
 <p align="center">
-  =============== [ Hello 🐻‍❄️ ] ===============
-</p>
-<p align="center">
-  🦑 Welcome to my GitHub profile 🦑
+  [ 𝓗𝓮𝓵𝓵𝓸 🐻‍❄️ ]
 </p>
