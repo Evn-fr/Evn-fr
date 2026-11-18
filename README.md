@@ -1,6 +1,6 @@
-<title>
+<h1>
 👋Hello there, I'm Neige, part-time maker of multiple things I never finish.
-</title>
+</h1>
 
 <hr>
 
