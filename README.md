@@ -2,7 +2,7 @@
 👋Hello there, I'm Neige, part-time maker of multiple things I never finish.
 </h2>
 
-<hr>
+
 
 <p align="center">
 ꧁༺❄️ My projects ❄️༻꧂
