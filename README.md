@@ -1,7 +1,7 @@
 <p align="center">
 👋Hello there, I'm Neige, part-time maker of unworking things. If you seek help, don't come to me I'll panic severely.
 </p>
-![](https://komarev.com/ghpvc/?username=Neige&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=Neige&style=flat-square)
 <hr>
 
 <p align="center">
