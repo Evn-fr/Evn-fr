@@ -3,9 +3,10 @@
 </h2>
 <p>
   🌍 Based in Britanny, France | 💡<b>Constantly learning how to be better</b>
+</p>
+<p>
   Welcome to my GitHub profile! Here, you'll find who I am and my projects/contributions.
 </p>
-
 <h2>
 ℹ️ About me
 </h2>
