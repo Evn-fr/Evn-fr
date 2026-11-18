@@ -1,6 +1,4 @@
-<p>
 ###👋Hello there, I'm Neige, part-time maker of unworking things. If you seek help, don't come to me I'll panic severely.
-</p>
 
 <hr>
 
