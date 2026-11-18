@@ -1,7 +1,9 @@
 <h2>
 👋Hello there, I'm Neige, part-time maker of multiple things I never finish.
 </h2>
-
+<p>
+  🌍 Based in Britanny, France | 💡<b>Constantly learning how to be better</b>
+</p>
 
 
 <p align="center">
